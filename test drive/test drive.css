@@ -1,3 +1,12 @@
+.container{
+    padding-top: 70px;
+    padding-bottom: 5%;
+    border-color: #ff5400;
+    text-align: center;
+}
+form{
+    text-align: left;
+}
 .footer{
 
     left: 0;
@@ -29,9 +38,7 @@ a{
 .content{
     padding-top: 5%;
     padding-bottom: 5%;
-    text-align: center;
-    padding-left: 5%;
-    padding-right: 5%;
+	text-align: center;
 }
 hr {
     width: 400px;
@@ -71,19 +78,4 @@ a:active {
 
 .footer-text{
     font-weight: 200;
-}
-.heading-1{
-    font-family: 'Abril Fatface', cursive;
-    font-size: 35pt;
-}
-.text{
-    font-family: 'Indie Flower', cursive;
-    font-size: 18pt;
-}
-.content-image{
-    height: 100%;
-    width: 100%;
-}
-.card{
-    border-color: #ff5400;
 }
